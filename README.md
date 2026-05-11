@@ -16,7 +16,7 @@
 8. [Interview Relevance](#interview-relevance)
 
 ---
-
+ 
 ## Introduction
 
 The rapid adoption of cloud computing has fundamentally transformed how organizations deploy and manage their digital infrastructure. However, this transformation has also introduced new attack vectors that threat actors actively exploit. Understanding real-world cloud breaches is essential for security professionals seeking to build robust defensive strategies and anticipate emerging threats.
